@@ -1,7 +1,9 @@
-numpy  
-pandas  
-matplotlib  
-seaborn  
-scikit-learn  
-selenium  
-webdriver-manager  
+pandas
+numpy
+matplotlib
+matplotlib-inline
+seaborn
+scikit-learn
+statsmodels
+traceback
+tabulate
